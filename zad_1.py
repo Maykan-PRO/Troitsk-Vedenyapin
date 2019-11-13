@@ -1,6 +1,5 @@
 def main():
     print('My first git program')
-    print('mama')
     print('не читайте')
 
 
